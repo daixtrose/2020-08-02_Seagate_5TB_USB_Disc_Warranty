@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<REGISTER_DRIVE_INFOS>
+  <VERSION>3.0</VERSION>
+  <DRIVEINFO>
+    <SERIAL_NUM>NAAGB6TT</SERIAL_NUM>
+    <SETUP_URL>https://www.seagate.com/register-expansion/</SETUP_URL>
+    <FORMAT>EXFAT</FORMAT>
+    <PRODUCT>STEF5000400</PRODUCT>
+    <COLOR>BK</COLOR>
+    <ID>0941dfc8ba362254ea15b0de</ID>
+  </DRIVEINFO>   
+</REGISTER_DRIVE_INFOS>
